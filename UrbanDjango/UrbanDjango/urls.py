@@ -27,6 +27,4 @@ urlpatterns = [
     path('platform/', platform),
     path('platform/games/', games),
     path('platform/cart/', cart)
-
 ]
-
